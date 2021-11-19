@@ -1,0 +1,136 @@
+@media screen and (max-width: 1075px) {
+  #pade {
+    width: 100% !important;
+    margin: auto;
+  }
+  .link-3 .li-3,.link-6 .li-5 {
+    width: 45%;
+    margin-bottom: 30px;
+  }
+  .link-3,.link-6 {
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  footer .link-9 .li-7 {
+    width: 30%;
+  }
+  footer .link-9 {
+    flex-wrap: wrap;
+  } 
+  .link-2{
+  justify-content: flex-start;
+}
+}
+@media screen and (max-width:950px) {
+  .link-10 .link-a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.644);
+    }
+  .link-2{
+  justify-content: flex-start;
+   }
+}
+@media screen and (max-width:920px){
+  .link-10{
+    flex-wrap:wrap;
+  }
+}
+
+@media screen and (max-width:890px) {
+     header a {
+   order: 2;
+   margin: auto;
+  }
+  header nav {
+   display: none;
+  }
+  #ll-1  {
+   margin-left: auto;
+   display: none;
+  }
+  #ll-2  {
+  order: 1;
+  }
+  #ll-3 {
+  order: 4;
+  }
+  #ll-4 {
+  order: 5;
+  }
+  #ll-6 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+ 
+}
+@media screen and (max-width:767px) {
+  .link-1,.link-4,.link-7 {
+   flex-direction: column;
+   height: auto;
+  }
+  .link-1 .abc ,.link-4 .abc,.link-7 .abc{
+   display: block;
+  }
+  .link-1 .li-1,.link-4 .li-4,.link-7 .li-6 {
+    width: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  .link-1 .li-1 p,.link-4 .li-4 p,.link-7 .li-6 p {
+   text-align: center;
+  }
+
+  .link-1 .li-1 a,.link-4 .li-4 a,.link-7 .li-6 a {
+    margin: 0;
+  }
+  .link-1 .li-1,.link-4 .li-4{
+   background-color: #e6e6e6;
+   padding: 30px 0;
+  }
+  .link-7 .li-6{
+   background-color: #333;
+   padding: 30px 0;
+  }
+  .link-2{
+    flex-direction: column;
+    /* border: solid; */
+    text-align: start;
+    margin-left: 40px;
+    width: fit-content;
+  }
+  .link-2 .li-2 {
+    width: 244px;
+}
+.link-2 .li-2 a {
+width: 240px;
+}
+.link-2 .li-2 a img {
+width: 20px;
+}
+.link-2 .li-2 a p{
+display:inline-block;
+}
+  .link-10 ul{
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width:538px) {
+  .link-3 .li-3,.link-6 .li-5 {
+   width: 90%;
+}
+.link-9 .li-7{
+ width: 90% !important;
+}
+
+.covild-1{
+  width: 90% !important;
+  padding: 5%;
+  text-align: center;
+  height: auto ;
+}
+}
+
