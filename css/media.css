@@ -83,7 +83,9 @@
   .link-1 .li-1 p,.link-4 .li-4 p,.link-7 .li-6 p {
    text-align: center;
   }
-
+  .link-1 .li-1{
+    text-align: center;
+  }
   .link-1 .li-1 a,.link-4 .li-4 a,.link-7 .li-6 a {
     margin: 0;
   }
