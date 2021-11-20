@@ -99,14 +99,13 @@
     flex-direction: column;
     /* border: solid; */
     text-align: start;
-    margin-left: 40px;
     width: fit-content;
   }
   .link-2 .li-2 {
-    width: 244px;
+  width: 100% !important;
 }
 .link-2 .li-2 a {
-width: 240px;
+width: fit-content;
 }
 .link-2 .li-2 a img {
 width: 20px;
