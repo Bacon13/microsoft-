@@ -434,12 +434,12 @@ footer .link-9 .li-7 ul a:hover {
   color: #616161;
   padding: 0;
 }
-.link-10 a {
+.link-10 .amerc{
   text-decoration: none;
   color: #616161;
   margin-bottom: 8px;
 }
-.link-10 ul li a:hover {
+.link-10 ul li a:hover,.amerc:hover {
   text-decoration: underline;
 }
 /* .far {
