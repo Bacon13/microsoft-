@@ -441,6 +441,6 @@ footer .link-9 .li-7 ul a:hover {
   text-decoration: underline;
 }
 .link-10 a i {
-  margin-right: 10px;
+  margin-right: 10px !important;
   font-size: 15px;
 }
